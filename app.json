@@ -7,15 +7,15 @@
   "env": {
     "SIMSIMI_KEY": {
       "description": "Simsimi Key",
-      "value": ""
+      "value": "213238ca-57fe-446f-bf98-436b9eada4a0"
     },
     "SIMSIMI_LANGUAGE": {
       "description": "Language",
-      "value": "vn"
+      "value": th"
     },
     "FB_PAGE_ACCESS_TOKEN": {
       "description": "Page Access Token",
-      "value": ""
+      "value": "EAAE4ZBUbPxpkBAMb5ZCnaqNUvZCk47e8Ol8XxCPF0tAppOhYhbqGBsoYyahsc801DuTcA2p4Aqw68gbT0Cegav9aZCL4qKEMrbfO9HWGylRShRrFJzx7pjRZCZAtCo2KInNuamBUUu73sYoSLtcW19ZBMWeYdVml8uxCl9DU4EolhSgUSKpUtsrIzT4oeCEtDEZD"
     },
     "FB_VERIFY_TOKEN": {
       "description": "Webhook Verify Token",
